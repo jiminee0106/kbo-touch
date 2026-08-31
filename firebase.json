@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "kbo-touch-ec0e2",
     "public": ".",
     "ignore": [
       "firebase.json",
